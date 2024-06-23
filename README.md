@@ -1,4 +1,5 @@
-Hi there, I'm Siraj Ul Islam 👋
+Hi there, I'm Siraj Ul Islam 
+
 👀 Interests:
 I am passionate about web development, particularly frontend technologies. I enjoy creating dynamic and responsive user interfaces that provide a seamless user experience.
 
